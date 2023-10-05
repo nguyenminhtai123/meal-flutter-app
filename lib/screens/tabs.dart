@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:recipe_flutter_app/provider/favourite_provider.dart';
 import 'package:recipe_flutter_app/provider/filter_provider.dart';
-import 'package:recipe_flutter_app/provider/meals_provider.dart';
 import 'package:recipe_flutter_app/screens/categories_screen.dart';
 import 'package:recipe_flutter_app/screens/filters.dart';
 import 'package:recipe_flutter_app/screens/meals.dart';
